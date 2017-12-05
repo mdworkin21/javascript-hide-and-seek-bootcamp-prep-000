@@ -1,3 +1,3 @@
 function getFirstSelector(selector){
-    return document.getElementById('ranked-list')
+    return document.getElementById.ranked-list
 }
