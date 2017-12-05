@@ -17,6 +17,6 @@ function increaseRankBy(n){
     rankedLists[i].innerHTML = (i + n).parseInt()
   }
 
-  console.log(rankedLists)
+
 
 }
