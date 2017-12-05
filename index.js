@@ -1,3 +1,3 @@
 function getFirstSelector(selector){
-    return document.getElementsByTagName('div').id
+    return document.querySelector(div.nested)
 }
